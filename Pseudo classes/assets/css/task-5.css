@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+     display: inline-block;
+}
+
+.boxH {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 184, 52);
+    padding: 20px;
+    font-size: larger;
+    font-weight: 900;
+    color: white;
+}
+
+.boxH:hover {
+    background-color: rgb(255, 177, 31);
+}
+
+.boxG {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 53, 53);
+    padding: 20px;
+    font-size: larger;
+    font-weight: 900;
+    color: white;
+}
+
+boxG:hover {
+    background-color: rgb(255, 68, 68);
+}
+
+.boxI {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(119, 241, 200);
+    padding: 20px;
+    font-size: larger;
+    font-weight: 900;
+    color: white;
+}
+
+.boxI {
+    background-color: rgb(119, 241, 200);
+}
+
+.boxP {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(130, 224, 255);
+    padding: 20px;
+    font-size: larger;
+    font-weight: 900;
+    color: white;
+}
+
+.boxP {
+    background-color: rgb(130, 224, 255);
+}
+
+.boxL {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(196, 134, 255);
+    padding: 20px;
+    font-size: larger;
+    font-weight: 900;
+    color: white;
+}
+
+.boxL {
+    background-color: rgb(196, 134, 255);
+}
+

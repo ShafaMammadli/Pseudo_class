@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    border-radius: 8px;
+    margin: 50px auto;
+    padding: 40px 50px;
+}
+
+.box:hover {
+    background-color: gold;
+}
+
+a:visited {
+    color: white;
+    font-size: xx-large;
+}

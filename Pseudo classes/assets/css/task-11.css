@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box1 {
+    height: 100px;
+    width: 300px;
+    background-color: blue;
+    border-radius: 6px;
+    padding: 35px 80px;
+    font-size: larger;
+    color: white;
+}
+
+.box1:hover {
+    background-color: rgb(145, 145, 255);
+}

@@ -1,0 +1,16 @@
+.class1 {
+    height: 25px;
+    width: 150px;
+    background-color: green;
+    font-size: large;
+    font-weight: 700;
+}
+
+.class2 {
+    height: 25px;
+    width: 150px;
+    background-color: red;
+    font-size: large;
+    font-weight: 700;
+}
+
